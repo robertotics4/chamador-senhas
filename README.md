@@ -14,6 +14,8 @@ npm i
 npm start
 ```
 
+Existe um arquivo chamado *collection-postman.json* que pode ser importado no Postman para efetuar testes nas rotas da aplicação
+
 ## License
 
 MIT
